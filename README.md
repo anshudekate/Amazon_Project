@@ -70,4 +70,8 @@ o	Conduct cohort or customer segmentation analysis to understand buying behavior
 o	Integrate profit margin data and customer feedback to balance sales performance with profit effectiveness.
 
 
-![Amazon Sales Insights Dashboard](https://example.com/dashboard.png)
+## Amazon Sales Dashboard
+
+![Amazon Sales Insights](https://github.com/anshudekate/Zudio_Project/blob/main/Screenshot%202025-07-08%20115800.png?raw=true)
+
+Pic. Amazon Sales Dashboard
