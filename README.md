@@ -72,6 +72,6 @@ o	Integrate profit margin data and customer feedback to balance sales performanc
 
 ## Amazon Sales Dashboard
 
-![Amazon Sales Insights](https://github.com/anshudekate/Zudio_Project/blob/main/Screenshot%202025-07-08%20115800.png?raw=true)
+![Amazon Sales Insights Dashboard](https://github.com/anshudekate/Amazon_Project/raw/main/Screenshot%202025-07-08%20145457.png)
 
 Pic. Amazon Sales Dashboard
